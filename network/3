@@ -1,0 +1,1 @@
+ifconfig | grep en1 -A 1 | grep -v en1 | awk '{print $2}'
