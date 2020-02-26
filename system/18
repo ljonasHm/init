@@ -1,1 +1,1 @@
-kill -9 "PID"
+service ssh stop

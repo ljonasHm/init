@@ -1,1 +1,1 @@
- dpkg --get-selections | grep -v deinstall
+dpkg --get-selections | grep -v deinstall | awk '{print $1}'

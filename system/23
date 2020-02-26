@@ -1,0 +1,2 @@
+graphical: login: enter user login, password: enter user password
+ssh: ssh <username>@<ip>, login: enter user login, password: enter user password
